@@ -23,6 +23,7 @@ void shaker( T vec[], int n ) {
         i++; d--;
     }
 }
+metro
 
 template < class T >
 void imprime( T vec[], int elem ) {
